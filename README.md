@@ -5,7 +5,8 @@ It includes KPIs, charts, pivot tables, and slicers to help understand sales beh
 
 
 ## 📊 Dashboard Preview
-[![Pizza Sales Dashboard](Pizza Sales Excel File.png)](pizza_sales_excel_file.xlsx)
+[Click here to view the Dashboard files (PNG + XLSX)](./)
+
 
 
 ---
