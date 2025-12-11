@@ -1,18 +1,12 @@
-# 🍕 Pizza Sales Performance Dashboard
+# Pizza Sales Performance Dashboard
 
 This project presents an **interactive Excel Dashboard** built using pizza sales data.  
 It includes KPIs, charts, pivot tables, and slicers to help understand sales behavior and performance trends.
 
 
-
 ## 📊 Dashboard Preview
 ![Pizza Sales Dashboard](Pizza_Sales_Excel_File.png)
 
-
-
-
-
----
 
 ## ✅ Key Features
 
@@ -23,7 +17,6 @@ It includes KPIs, charts, pivot tables, and slicers to help understand sales beh
 - **Total Orders**
 - **Average Pizzas per Order**
 
----
 
 ## 📈 Visual Insights
 
@@ -57,8 +50,7 @@ Comparison of order volume for different pizza types:
 - Supreme  
 - Veggie  
 - Chicken
-
----
+  
 
 ## 🛠 Tools & Techniques Used
 - **Microsoft Excel**
@@ -68,7 +60,6 @@ Comparison of order volume for different pizza types:
 - Conditional Formatting  
 - Data Cleaning & Formatting  
 
----
 
 ## 🎯 Project Purpose
 This dashboard helps understand:
@@ -82,15 +73,8 @@ Useful for businesses to make decisions such as:
 - Inventory planning  
 - Peak-hour resource allocation  
 
----
 
 ## 📁 Files in This Repository
 - **Pizza Sales Excel File.xlsx** → Full dashboard & raw data  
 - **Pizza Sales Excel File.png** → Dashboard screenshot  
 - **README.md** → Project documentation  
-
----
-
-## 👤 Author
-Created by **Sri** as part of learning Excel for Data Analysis.
-
