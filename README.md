@@ -4,8 +4,10 @@ This project presents an **interactive Excel Dashboard** built using pizza sales
 It includes KPIs, charts, pivot tables, and slicers to help understand sales behavior and performance trends.
 
 
+
 ## 📊 Dashboard Preview
-[Click here to view the Dashboard files (PNG + XLSX)](./)
+![Pizza Sales Dashboard](Pizza_Sales_Excel_File.png)
+
 
 
 
